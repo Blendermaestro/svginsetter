@@ -2,6 +2,10 @@
 
 A tool to create mathematically precise parallel insets of SVG shapes using polygon offsetting.
 
+## Download
+
+**[⬇ Download SVGInsetTool.exe](https://github.com/Blendermaestro/svginsetter/releases/download/v1.0/SVGInsetTool.exe)** — Windows, no Python required.
+
 ## Features
 
 - Load any SVG file
